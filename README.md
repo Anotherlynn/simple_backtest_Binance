@@ -1,7 +1,7 @@
 # simple_backtest_Binance
 
 
-## Important notice of the functions and analysis
+**Important notice of the functions and analysis**
 
 First, thank you for providing me this chance to build the project. Here I would like to give some instructions for you to use the project.
 
